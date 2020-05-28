@@ -6,7 +6,7 @@ questions.
 
 ## Explaining Custom Layers
 
-The process behind converting custom layers involves...
+The process behind converting custom layers involves..
 
 Some of the potential reasons for handling custom layers are...
 
